@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Merchant Portal Product Offer Service Points
 
-
+The Marketplace Merchant Portal Product Offer Service Points feature allows merchants to update product offers by assigning services to them directly within the Merchant Portal.
 
 ## Installation
 
